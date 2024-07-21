@@ -14,6 +14,8 @@ To enable full interactivity and functionality, the following Tableau features w
 - Info button
 - ... and many more!
 
+![](https://github.com/user-attachments/assets/6d9f78d1-1939-4fd4-9f4c-bef10ec98858)
+
 ## Data Source
 
 The data used in this project comes from Apple itself, and provides a summary of Apple’s greenhouse gas emissions from 2015 to 2022. It contains information on each source of emissions from both their corporate emissions and product life cycle, the carbon footprint of their baseline iPhone released in each year, and normalizing factors like revenue, market capitalization and number of employees. These reports come amidst Apple’s plan to achieve zero net emissions by the year 2030. 
