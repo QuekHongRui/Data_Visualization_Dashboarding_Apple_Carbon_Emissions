@@ -1,4 +1,4 @@
-# Data_Visualization_Dashboarding_Apple_Carbon_Emissions
+# Tableau Dashboard: Apple's Carbon Emissions
 
 ![](https://www.apple.com/newsroom/images/values/environment/Apple_commits-100-percent-carbon-neutrality-for-supply-chain-and-products-by-2030-solar-farm_07212020_big.jpg.large_2x.jpg)
 
